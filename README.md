@@ -1,5 +1,6 @@
 # Math-210-Python
 
-Projects
-* Calculus
-* Linear algebra
+Folders description:
+
+* Assigments: The folder contains my solutions to the assignments.
+* Assigments: The folder contains the PDFs of the assignment questions.
